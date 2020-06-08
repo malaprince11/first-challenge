@@ -1,0 +1,17 @@
+#malamine{
+border: solid 1px blue;
+}
+#Fanny{
+    border:solid 1px pink;
+
+}
+.dontlike{
+    display: flex;
+    flex-direction: column;
+
+}
+.like{
+    display: flex;
+    flex-direction: column;
+
+}
